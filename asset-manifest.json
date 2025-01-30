@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4e24d96.css",
+    "main.js": "/static/js/main.d01f3357.js",
+    "static/js/685.b48c6ac0.chunk.js": "/static/js/685.b48c6ac0.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.f8ee58b861726298e592116cbced30f3.svg",
+    "static/media/bianchitech-logo.svg": "/static/media/bianchitech-logo.10c5d0e800da67003773f9ca50daa61b.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b4e24d96.css",
+    "static/js/main.d01f3357.js"
+  ]
+}
