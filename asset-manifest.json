@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.4b12a188.css",
-    "main.js": "/static/js/main.0bd18b87.js",
+    "main.js": "/static/js/main.63d7feb4.js",
     "static/js/488.65e671f6.chunk.js": "/static/js/488.65e671f6.chunk.js",
     "static/media/bianchitech-logo.svg": "/static/media/bianchitech-logo.10c5d0e800da67003773f9ca50daa61b.svg",
     "index.html": "/index.html",
     "main.4b12a188.css.map": "/static/css/main.4b12a188.css.map",
-    "main.0bd18b87.js.map": "/static/js/main.0bd18b87.js.map",
+    "main.63d7feb4.js.map": "/static/js/main.63d7feb4.js.map",
     "488.65e671f6.chunk.js.map": "/static/js/488.65e671f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b12a188.css",
-    "static/js/main.0bd18b87.js"
+    "static/js/main.63d7feb4.js"
   ]
 }
